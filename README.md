@@ -57,7 +57,7 @@ Scripts Bash pour automatisation de tâches système.
 
 ## Objectif
 
-Rejoindre une alternance en cybersécurité a partir d'octobre 2026,(format 4 semaines en entreprise, 1semaine en école)
+Rejoindre une alternance en cybersécurité a partir d'octobre 2026,(format 3 semaines en entreprise, 1 semaine en école)
 afin de renforcer mes compétences en environnement réel, notamment sur les aspects systèmes, réseaux et sécurité opérationnelle.
 
 ---
