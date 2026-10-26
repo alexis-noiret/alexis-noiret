@@ -9,7 +9,7 @@
 
 ---
 
-## À propos de moi
+## 🙋 À propos de moi
 
 Je développe un portfolio technique basé sur des projets concrets en lien avec :
 
@@ -22,7 +22,7 @@ Objectif : intégrer une alternance en cybersécurité avec une approche pratiqu
 
 ---
 
-## Projets personnels
+## 🧪 Projets personnels
 
 ### 🛡️ [Cyber Lab Personnel](https://github.com/alexis-noiret/cyber-lab-perso)
 Laboratoire isolé sur matériel physique : pare-feu pfSense, hyperviseur Proxmox, VMs Kali / Windows Server (Active Directory) / Windows Client, accès VPN WireGuard.
@@ -38,7 +38,7 @@ Application web front-end (HTML / SASS / JavaScript) consommant PokéAPI — [vo
 
 ---
 
-## Projets de formation
+## 🎓 Projets de formation
 
 ### 📡 [PSMM](https://github.com/alexis-noiret/PSMM)
 Supervision de sécurité sur 4 machines Debian : scripts Python, MariaDB, alertes mail / Google Chat, logs centralisés via rsyslog en TLS.
@@ -52,9 +52,21 @@ Prise en main de Docker : Dockerfile, volumes, docker-compose, registry local, P
 ### 🌐 [Infrastructure Réseau](https://github.com/alexis-noiret/DHCP-DNS-SFTP-SSH)
 Infrastructure complète avec DHCP, DNS, SSH et SFTP.
 
+### 🔐 [Active Directory](https://github.com/alexis-noiret/Active-Directory)
+Laboratoire d'automatisation Active Directory en PowerShell : déploiement de domaine, gestion LDAP, GPO et renforcement de la sécurité.
+
+### 🦈 [Wireshark](https://github.com/alexis-noiret/wireshark)
+Capture et analyse de trafic réseau avec Wireshark et tshark (DHCP, DNS, mDNS, FTP, HTTP/HTTPS, SMB2) sur deux VMs.
+
+### 🛡️ [Projet Bastion](https://github.com/alexis-noiret/projet-Bastion)
+Bastion d'accès distants avec Apache Guacamole : Docker Compose, reverse proxy Nginx en HTTPS, MFA TOTP.
+
+### 🔒 [VPN](https://github.com/alexis-noiret/VPN)
+Déploiement OpenVPN avec PKI easy-rsa, chiffrement AES-256 et watchdog de résilience.
+
 ---
 
-## Compétences
+## 🧠 Compétences
 
 - Linux / Administration système
 - Virtualisation (Proxmox, VMware) et Docker
@@ -67,16 +79,15 @@ Infrastructure complète avec DHCP, DNS, SSH et SFTP.
 
 ---
 
-## Objectif
+## 🎯 Objectif
 
 Rejoindre une alternance en cybersécurité, disponible immédiatement (format 3 semaines en entreprise, 1 semaine à l'école)
 afin de renforcer mes compétences en environnement réel, notamment sur les aspects systèmes, réseaux et sécurité opérationnelle.
 
 ---
 
-## Contact
+## 📬 Contact
 
-
-Portfolio : https://alexis-noiret.students-laplateforme.io/
-GitHub : https://github.com/alexis-noiret
+- Portfolio : [alexis-noiret.students-laplateforme.io](https://alexis-noiret.students-laplateforme.io/)
+- GitHub : [github.com/alexis-noiret](https://github.com/alexis-noiret)
 
