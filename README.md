@@ -22,31 +22,43 @@ Objectif : intégrer une alternance en cybersécurité avec une approche pratiqu
 
 ---
 
-## Projets principaux
+## Projets personnels
+
+### 🛡️ [Cyber Lab Personnel](https://github.com/alexis-noiret/cyber-lab-perso)
+Laboratoire isolé sur matériel physique : pare-feu pfSense, hyperviseur Proxmox, VMs Kali / Windows Server (Active Directory) / Windows Client, accès VPN WireGuard.
+
+### 📈 [SOC Lab Wazuh](https://github.com/alexis-noiret/soc-lab-wazuh)
+SIEM Wazuh déployé sur le lab, avec le contrôleur de domaine Active Directory enrôlé (évaluation CIS, intégrité des fichiers, rootcheck).
 
 ### 🔎 [Scanner Réseau Automatique](https://github.com/alexis-noiret/scanner-reseau-auto)
-Scanner réseau en Python inspiré de Nmap, permettant la détection de ports ouverts, services et génération de rapports.
+Scanner réseau en Python (architecture MVC, multithreading) : ports TCP, services, bannières, fingerprinting léger et rapports TXT / JSON.
 
-### 📊 [AAA Monitoring Dashboard](https://github.com/alexis-noiret/AAA)
-Outil de supervision système sous Linux avec collecte et visualisation de métriques.
+### 🔴 [Pokédex](https://github.com/alexis-noiret/pokedex)
+Application web front-end (HTML / SASS / JavaScript) consommant PokéAPI — [voir le site](https://alexis-noiret.students-laplateforme.io/pokedex/).
 
-### 🔐 [LDAP](https://github.com/alexis-noiret/LDAP)
-Mise en place d’un annuaire LDAP pour la gestion centralisée des identités.
+---
+
+## Projets de formation
+
+### 📡 [PSMM](https://github.com/alexis-noiret/PSMM)
+Supervision de sécurité sur 4 machines Debian : scripts Python, MariaDB, alertes mail / Google Chat, logs centralisés via rsyslog en TLS.
+
+### 🖥️ [Holodeck](https://github.com/alexis-noiret/holodeck)
+Infrastructure Debian multi-services virtualisée sous VMware.
+
+### 🐳 [Docker](https://github.com/alexis-noiret/docker)
+Prise en main de Docker : Dockerfile, volumes, docker-compose, registry local, Portainer.
 
 ### 🌐 [Infrastructure Réseau](https://github.com/alexis-noiret/DHCP-DNS-SFTP-SSH)
-Déploiement d’une infrastructure réseau complète avec DHCP, DNS, SSH et SFTP.
-
-### 📡 [Cisco Packet Tracer](https://github.com/alexis-noiret/Cisco)
-Simulation réseau avec VLAN, routage et validation de la connectivité.
-
-### 🐚 [Shell](https://github.com/alexis-noiret/shell)
-Scripts Bash pour automatisation de tâches système.
+Infrastructure complète avec DHCP, DNS, SSH et SFTP.
 
 ---
 
 ## Compétences
 
 - Linux / Administration système
+- Virtualisation (Proxmox, VMware) et Docker
+- SIEM Wazuh, centralisation de logs
 - Réseaux (TCP/IP, VLAN, Cisco)
 - Python / Bash
 - LDAP (gestion des identités)
@@ -57,7 +69,7 @@ Scripts Bash pour automatisation de tâches système.
 
 ## Objectif
 
-Rejoindre une alternance en cybersécurité a partir d'octobre 2026,(format 3 semaines en entreprise, 1 semaine en école)
+Rejoindre une alternance en cybersécurité, disponible immédiatement (format 3 semaines en entreprise, 1 semaine à l'école)
 afin de renforcer mes compétences en environnement réel, notamment sur les aspects systèmes, réseaux et sécurité opérationnelle.
 
 ---
@@ -68,4 +80,3 @@ afin de renforcer mes compétences en environnement réel, notamment sur les asp
 Portfolio : https://alexis-noiret.students-laplateforme.io/
 GitHub : https://github.com/alexis-noiret
 
-Update profile README with projects and badges
